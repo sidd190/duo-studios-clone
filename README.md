@@ -43,11 +43,11 @@ A high-fidelity, animated clone of the **Duo Studios** website built using **HTM
 
 ## 📷 Screenshots
 
-![Screenshot of the Website]\(assets/screenshot1.png)
+![Screenshot of the Website]\(assets/Screenshot1.png)
 
-![Screenshot of the Website]\(assets/screenshot2.png)
+![Screenshot of the Website]\(assets/Screenshot2.png)
 
-![Screenshot of the Website]\(assets/screenshot3.png)
+![Screenshot of the Website]\(assets/Screenshot3.png)
 
 ## 📄 License
 
