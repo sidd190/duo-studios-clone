@@ -14,7 +14,7 @@ A high-fidelity, animated clone of the **Duo Studios** website built using **HTM
 
 ```
 📁 duo-studios-clone
-│── 📁 media          # Images, fonts, and media
+│── 📁 assets          # Images, fonts, and media
 │── 📄 style.css      # Stylesheets
 │── 📄 script.js      # JavaScript files
 │── 📄 index.html     # Main HTML file
@@ -42,12 +42,9 @@ A high-fidelity, animated clone of the **Duo Studios** website built using **HTM
 3. Open `index.html` in your preferred browser or use Live Server.
 
 ## 📷 Screenshots
-
-![Screenshot of the Website]\(assets/Screenshot1.png)
-
-![Screenshot of the Website]\(assets/Screenshot2.png)
-
-![Screenshot of the Website]\(assets/Screenshot3.png)
+<img src="assets/Screenshot1.png" alt="Screenshot 1">
+<img src="assets/Screenshot2.png" alt="Screenshot 2">
+<img src="assets/Screenshot3.png" alt="Screenshot 3">
 
 ## 📄 License
 
