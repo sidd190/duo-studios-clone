@@ -1,4 +1,4 @@
-# Duo Studios Website Clone
+# Duo Studios Website Clone - FrontEnd
 
 A high-fidelity, animated clone of the **Duo Studios** website built using **HTML, CSS, and JavaScript**, powered by **GSAP** for animations and **Locomotive Scroll** for smooth scrolling effects.
 
